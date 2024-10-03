@@ -12,12 +12,12 @@
 
 @font-face{
     font-family: Garamond-Light; 
-    src: url(fonts/Cormorant_Garamond/CormorantGaramond-Light.ttf); 
+    src: url(fonts/CormorantGaramond-Light.ttf); 
 }
 
 @font-face{
     font-family: Garamond-Bold; 
-    src: url(fonts/Cormorant_Garamond/CormorantGaramond-Bold.ttf); 
+    src: url(fonts/CormorantGaramond-Bold.ttf); 
 }
 
 /* width */
