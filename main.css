@@ -42,6 +42,10 @@
     background: rgba(255, 221, 0, 0.4);
 }
 
+map{
+    size: auto;
+}
+
 .p-html-1{
     font-family: 'Garamond-Light';
     font-size: calc(0.5vw + 2vh);
